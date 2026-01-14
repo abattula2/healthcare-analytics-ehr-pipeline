@@ -1,4 +1,4 @@
-# 🏥 Healthcare LLM & ETL Platform
+# Healthcare LLM & ETL Platform
 
 > **Enterprise-grade healthcare data platform demonstrating large-scale ETL, distributed systems, ML/LLM workflows, and Kubernetes deployment**
 
@@ -7,7 +7,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-ML-red.svg)](https://pytorch.org/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Container-blue.svg)](https://kubernetes.io/)
 
-## 🎯 Project Overview
+## Project Overview
 
 This project showcases production-ready skills in:
 - **Large-Scale Data Engineering**: Processing 10M+ healthcare records with DuckDB, PyArrow, Pandas, NumPy
@@ -18,7 +18,7 @@ This project showcases production-ready skills in:
 
 ---
 
-## 🚀 Key Technologies
+## Key Technologies
 
 ### Data Processing & ETL
 - **PyArrow**: Columnar data processing for Parquet files
@@ -44,7 +44,7 @@ This project showcases production-ready skills in:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 healthcare-analytics-ehr-pipeline/
@@ -79,7 +79,7 @@ healthcare-analytics-ehr-pipeline/
 
 ---
 
-## 💡 Core Features
+## Core Features
 
 ### 1. **Massive Data Processing**
 - Generate and process **1M+ patient records** with synthetic healthcare data
@@ -169,7 +169,7 @@ CMD ["python", "etl/pipeline.py"]
 
 ---
 
-## 🏗️ Distributed Systems Design
+## Distributed Systems Design
 
 ### Architecture Principles
 1. **Stateless Services**: All services are stateless for horizontal scaling
@@ -186,7 +186,7 @@ CMD ["python", "etl/pipeline.py"]
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Python 3.9+
@@ -216,7 +216,7 @@ kubectl apply -f infra/k8s/
 
 ---
 
-## 📊 Performance Benchmarks
+## Performance Benchmarks
 
 | Operation | Dataset Size | Time | Throughput |
 |-----------|--------------|------|------------|
@@ -227,51 +227,43 @@ kubectl apply -f infra/k8s/
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 ### Data Engineering
-✅ Python, PyArrow, DuckDB, Pandas, NumPy, Polars  
-✅ Large-scale ETL systems (10M+ records)  
-✅ SQL optimization & query tuning  
-✅ Parquet columnar format  
-✅ Batch & stream processing patterns  
+-- Python, PyArrow, DuckDB, Pandas, NumPy, Polars  
+-- Large-scale ETL systems (10M+ records)  
+-- SQL optimization & query tuning  
+-- Parquet columnar format  
+-- Batch & stream processing patterns  
 
 ### Machine Learning
-✅ PyTorch neural networks  
-✅ Model training & inference  
-✅ LLM integration & RAG pipelines  
-✅ Feature engineering & risk scoring  
+-- PyTorch neural networks  
+-- Model training & inference  
+-- LLM integration & RAG pipelines  
+-- Feature engineering & risk scoring  
 
 ### Infrastructure & DevOps
-✅ Docker containerization  
-✅ Kubernetes orchestration (Deployments, Services, ConfigMaps, HPA)  
-✅ Distributed systems design  
-✅ Networking, file systems, OS concepts  
-✅ Scalability & failure handling  
+-- Docker containerization  
+-- Kubernetes orchestration (Deployments, Services, ConfigMaps, HPA)  
+-- Distributed systems design  
+-- Networking, file systems, OS concepts  
+-- Scalability & failure handling  
 
 ### Databases
-✅ Massive relational databases (PostgreSQL, Oracle, Snowflake)  
-✅ Complex SQL (window functions, CTEs, subqueries)  
-✅ Query optimization & indexing  
-✅ OLAP workloads with DuckDB  
+-- Massive relational databases (PostgreSQL, Oracle, Snowflake)  
+-- Complex SQL (window functions, CTEs, subqueries)  
+-- Query optimization & indexing  
+-- OLAP workloads with DuckDB  
 
 ---
 
-## 🔗 Connect
+## Connect
 
 **GitHub**: [Arunchandra575](https://github.com/Arunchandra575)  
-**LinkedIn**: [Add your LinkedIn]  
-**Portfolio**: [Add your portfolio]
+**LinkedIn**: https://www.linkedin.com/in/arunchandrabattula/  
 
----
 
-## 📝 License
-
-MIT License - feel free to use this project as a reference for your own work.
-
----
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project demonstrates production-grade skills in:
 - Healthcare data engineering
